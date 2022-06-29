@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\bin\Debug\plugin.def
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\bin\Debug\ClientPlugins.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\bin\Debug\ClientPlugins.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\bin\Debug\VideoOS.Platform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.Admin.ClientPluginsAddUserControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.Client.ClientPluginsViewItemUserControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.Client.ClientPluginsPropertiesUserControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.Client.ClientPluginsWorkSpaceViewItemUserControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.Admin.HelpPage.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.Admin.ClientPluginsUserControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.Client.ClientPluginsOptionsDialogUserControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.Client.ClientPluginsSidePanelUserControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\vanilla_exercises_need_cleanup\10-view_item_remote_messaging\ClientPlugins\ClientPlugins\obj\Debug\ClientPlugins.pdb
